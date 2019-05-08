@@ -1,10 +1,10 @@
 Project 4 Haiyu Wan 458812
 
-â€¢ (10 points) User can login/logout, and login information is stored using Firebase
+• (10 points) User can login/logout, and login information is stored using Firebase
 
-â€¢ (20 points) On login, there is a map of the current area which displays pins corresponding to photos
+• (20 points) On login, there is a map of the current area which displays pins corresponding to photos
 
-â€¢ (10 points) Logged in userâ€™s posts are differentiated in a very clear way
+• (10 points) Logged in user’s posts are differentiated in a very clear way
 
 (15 points) Clicking on a pin opens a new fragment/activity with the posters username, the date/location the photo was taken, and the photo itself
 
@@ -21,3 +21,15 @@ When user double tap, user can add new comment.
 
 2. Add comments:
 User can add their comment about the photo and all the other users can see it on a new activity ( commentActivity).  You can add comment by the float button at the conner of the detail activity or use the gesture on detail page. The comments will show the user who write the comment and body. All the information about the comment will be added into the firebase. The empty comment will be detected and show the alert toast. If you add the comment successfully, you will also see a toast.
+
+(10 points) User can login/logout, and login information is stored using Firebase
+(20 points) On login, there is a map of the current area which displays pins corresponding to photos
+(5 points) Logged in user’s posts are differentiated in a very clear way
+	I do not think you did this clearly. Each user is assigned a different color but the colors will eventually get reused. It is not possible for me to know which posts are mine.
+(15 points) Clicking on a pin opens a new fragment/activity with the posters username, the date/location the photo was taken, and the photo itself
+(20 points) User can click button to take a photo to post, which stores the photo and all relevant information
+(10 points) Map updates immediately with the users new post
+(15 points) Creative portion(s) - build your own feature
+
+Total: 95 / 100
+
